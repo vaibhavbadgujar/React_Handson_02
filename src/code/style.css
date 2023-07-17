@@ -1,0 +1,41 @@
+body {
+    background-image: linear-gradient(#ce4a4a, #9b4f5c);
+    text-align: center;
+    height: 800px;
+  }
+  input {
+    border: 1px solid black;
+    border-radius: 15px;
+    background-color: lightblue;
+    width: 200px;
+    height: 40px;
+  }
+  button {
+    border: 1px solid black;
+    border-radius: 25px;
+    background-color: #8d96ff96;
+    width: 200px;
+    height: 40px;
+    transition: 1s background-color linear;
+    font-size: 18px;
+  }
+  button:hover {
+    background-color: cyan;
+  }
+  .dataBox {
+    border: 1px solid black;
+    background-color: lightskyblue;
+    width: 100;
+    display: flex;
+    justify-content: space-around;
+    margin: 30px;
+    flex-wrap: wrap;
+  }
+  .displayBox {
+    border: 1px solid black;
+    border-radius: 15px;
+    background-color: #717cf396;
+    height: 40px;
+    width: 400px;
+    margin: 15px;
+  }
