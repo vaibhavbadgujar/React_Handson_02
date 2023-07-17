@@ -52,8 +52,8 @@ const Form = () => {
                 return(
                     
                         <div className="displayBox">
-                            <span>Name: {item.name} | </span>
-                            <span>Department: {item.department} | </span>
+                            <span>Name: {item.name} || </span>
+                            <span>Department: {item.department} || </span>
                             <span>Rating: {item.rating}</span>
                         </div>
                 );
