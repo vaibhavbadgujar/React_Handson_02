@@ -35,7 +35,8 @@ body {
     border: 1px solid black;
     border-radius: 15px;
     background-color: #717cf396;
-    height: 40px;
+    height: 25px;
     width: 400px;
     margin: 15px;
+    padding: 15px;
   }
